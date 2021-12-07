@@ -152,3 +152,6 @@ patch后发现，之后还有结构，可以使用脚本对之后数据进行进
 向下寻找此处有`int 3`触发异常处理
 
 ![](https://gitee.com/Emtanling/image/raw/master/img/20210907185925.png)
+
+此处有判断函数位置
+![](https://gitee.com/Emtanling/image/raw/master/img/20211207165220.png)
